@@ -212,6 +212,7 @@
   font-weight: 400;
   font-size: 20px;
   text-underline-offset: 5px;
+  text-decoration-thickness: 1px;
 }
 
 .about {
